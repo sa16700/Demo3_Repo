@@ -10,3 +10,4 @@ for(i in z)
 # SOme New Changes to this file
 # Hello world
 rnorm(100)
+rnorm(10)
