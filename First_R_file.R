@@ -7,3 +7,6 @@ vec = double()
 for(i in z)
 	vec[i] = rnorm(5)
 ##################
+# SOme New Changes to this file
+# Hello world
+rnorm(100)
