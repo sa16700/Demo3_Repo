@@ -7,3 +7,6 @@ vec = double()
 for(i in z)
 	vec[i] = rnorm(5)
 ##################
+
+
+#hello this is Hanan
