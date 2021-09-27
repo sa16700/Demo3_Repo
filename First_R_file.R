@@ -11,14 +11,14 @@ for(i in z)
 
 ######################
 # New Changes to this file
-<<<<<<< HEAD
+
 #HEAD
 # kholoud alsadi 
 
 
 #Changes made my Hanan 
 
-=======
+
 ##### HEAD
 # Changes made by Omama
 ###### New changes
@@ -28,5 +28,6 @@ for(i in z)
 ####errors
 plot(1:10)
 x = 5
->>>>>>> d82f49fb4922156c1843cb6fd49e86a4ec0aeed0
+
 # 44
+# kholoud 
