@@ -11,11 +11,10 @@ for(i in z)
 
 ######################
 # New Changes to this file
-<<<<<<< HEAD
-# Changes made by Omama@@
-
-
-=======
+##### HEAD
+# Changes made by Omama
+###### New changes
+### too  many changes
 
 #Changes made my Hanan 
->>>>>>> 83850978c947add767a8a2fdcd6abb5d0f397b82
+####errors
