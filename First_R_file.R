@@ -28,6 +28,6 @@ for(i in z)
 ####errors
 plot(1:10)
 x = 5
-# changes made by kholoud 
+
 
 
