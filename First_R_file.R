@@ -18,3 +18,5 @@ for(i in z)
 
 #Changes made my Hanan 
 ####errors
+plot(1:10)
+x = 5
