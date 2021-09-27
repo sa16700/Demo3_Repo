@@ -13,7 +13,7 @@ for(i in z)
 # New Changes to this file
 
 #HEAD
-# kholoud alsadi 
+
 
 
 #Changes made my Hanan 
@@ -28,5 +28,6 @@ for(i in z)
 ####errors
 plot(1:10)
 x = 5
+
 
 
